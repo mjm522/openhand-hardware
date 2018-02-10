@@ -19,6 +19,7 @@ Things to note:
 - Most Solidworks parts have dependencies on other parts. To avoid warnings/errors when opening assemblies, be sure to have "Load referenced documents" set to "All" in Options>>External References
 - Many of the assemblies use Configurations extensively to cut down on the number of CAD source files I have to maintain. Be sure to check them out!
 - More details about our approach to CAD for this project can be found in our [CAD Guide](http://www.eng.yale.edu/grablab/openhand/OpenHand%20CAD%20Guide.pdf) 
+
 -Hybrid Deposition Manufacturing(https://www.eng.yale.edu/grablab/openhand/hdm.html)
 
 
